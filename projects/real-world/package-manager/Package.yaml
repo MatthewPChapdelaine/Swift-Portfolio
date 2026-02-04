@@ -1,0 +1,5 @@
+name: MySwiftProject
+version: 1.0.0
+dependencies:
+  Vapor: "^4.0.0"
+  Yams: "^5.0.0"
